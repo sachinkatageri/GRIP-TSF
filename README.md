@@ -1,5 +1,5 @@
 >GRIP-TSF
-# simple linear regression task
+# Task 2- simple linear regression task
 ### Predict the percentage of marks that a student is expected to score based upon the number of hours they studied
 **Reruirementes**
 -pandas
