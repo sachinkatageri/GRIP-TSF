@@ -1,4 +1,4 @@
-> # GRIP-TSF
+> # GRIP -TSF ![Image of TSF](https://www.thesparksfoundationsingapore.org/images/logo_small.png)
 # Task 1 -Improve LinkedIn Profile 
 >[linkedin](https://www.linkedin.com) -https://www.linkedin.com/in/sachinkatageri/ 
 
