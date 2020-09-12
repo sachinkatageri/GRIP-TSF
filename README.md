@@ -8,7 +8,7 @@ Predict the percentage of marks that a student is expected to score based upon t
 https://github.com/sachinkatageri/GRIP-TSF/blob/master/Task1_Linear_Regression_TSF.ipynb
 
 **Reruirementes**
-- pandas , - numpy ,- matplotlib, - seaborn, - sklearn
+- pandas  - numpy - matplotlib  - seaborn - sklearn
 
 
  
