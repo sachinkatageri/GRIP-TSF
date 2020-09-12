@@ -1,4 +1,4 @@
-> # GRIP -TSF ![Image of TSF](https://www.thesparksfoundationsingapore.org/images/logo_small.png)
+> # GRIP -TSF                                                           
 # Task 1 -Improve LinkedIn Profile 
 >[linkedin](https://www.linkedin.com) -https://www.linkedin.com/in/sachinkatageri/ 
 
@@ -15,3 +15,4 @@ https://github.com/sachinkatageri/GRIP-TSF/blob/master/Task1_Linear_Regression_T
 - sklearn 
 
 >**Predicted Score for 9.25 hours: 93.69173248737539 percent**
+            
