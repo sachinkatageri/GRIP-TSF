@@ -1,6 +1,6 @@
 >GRIP-TSF
-# Task 1 -Improve LinkedIn Profile https://www.linkedin.com/in/sachinkatageri/ - automatic!
-[linkedin](https://www.linkedin.com)
+# Task 1 -Improve LinkedIn Profile 
+>[linkedin](https://www.linkedin.com) -https://www.linkedin.com/in/sachinkatageri/ 
 
 ```
 # Task 2- simple linear regression task
