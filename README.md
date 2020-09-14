@@ -1,6 +1,6 @@
-> # GRIP -TSF                                                           
+# GRIP -TSF <img align='right' src="https://www.thesparksfoundationsingapore.org/images/logo_small.png" width="50">                                                          
 # Task 1 - LinkedIn Profile 
->[linkedin](https://www.linkedin.com) -https://www.linkedin.com/in/sachinkatageri/ 
+[![Linkedin: sachinkatageri](https://img.shields.io/badge/-sachinkatageri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachinkatageri/)](https://www.linkedin.com/in/sachinkatageri/)
 
 # Task 2 - simple linear regression task
 
@@ -9,9 +9,6 @@ https://github.com/sachinkatageri/GRIP-TSF/blob/master/Task1_Linear_Regression_T
 
 **Reruirementes**
 - pandas  - numpy - matplotlib  - seaborn - sklearn
-
-
- 
 
 >**Predicted Score for 9.25 hours: 93.69173248737539 percent**
 
