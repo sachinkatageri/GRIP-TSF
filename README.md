@@ -1,6 +1,6 @@
 <h1 align="center">GRIP -The Spark Foundation <img src="https://www.thesparksfoundationsingapore.org/images/logo_small.png" width="60"></h1>
                                                           
-#Task 1 - LinkedIn Profile 
+# Task 1 - LinkedIn Profile 
 [![Linkedin: sachinkatageri](https://img.shields.io/badge/-sachinkatageri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachinkatageri/)](https://www.linkedin.com/in/sachinkatageri/)
 
 # Task 2 - simple linear regression task
